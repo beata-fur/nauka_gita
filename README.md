@@ -1,2 +1,3 @@
 # nauka gita
-git 
+git
+raz dwa
